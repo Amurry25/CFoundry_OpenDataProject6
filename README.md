@@ -1,16 +1,16 @@
 # CFoundry_OpenDataProject6
 
 #### Summary
-> This repository is meant to highlight my work in Achievement 6 of Career Foundry's Data Analytics Program. Where in this particular achievement I was tasked with selecting my "own data to analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring." With the results of my analyses being visualized and "presented in a Tableau dashboard/storyboard."
+> This repository is meant to highlight my work in Achievement 6 of Career Foundry's Data Analytics Program. Where in this particular achievement I was tasked with selecting my "own data to analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring." With the results of my analyses being visualized and "presented in a Tableau dashboard/storyboard." For my data set I choose **The World Happiness Report** from 2015 to 2019.
 
 #### Objective
-> Instacart is "an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns." My objective was "to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria." And in order to answer the questions posed the Instacart I was tasked with conducting the analysis in Python, "relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn) & various data sets provided in the achievement."
+> "The World Happiness Report is a landmark survey of the state of global happiness. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions.The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness."
 
 ### Additional context
-> In addition this achievement also provided a series of questions said to have been asked by Instacart's key stakeholders that I was required to produce "data-driven" answers for based on the data sets again provided in said achievement.
+> I choose this data set because on a personal level I've always been fascinated by human behavior. And as a result I love spending time gaining insights that allow me to better understand how people think, why people believe certain ideas and why they make the decisions that they do. Because in the same way that gaining more context about one individual’s life has value, learning about what people think allows me to in a sense see ideas through their eyes.
 
-#### Data Sets Provided
-- Customers Data Set
+#### Data Sets Provided 
+- Data Source - Kaggle https://www.kaggle.com/datasets/unsdsn/world-happiness 
 - Data Dictionary --> The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions
   - orders
   - products
