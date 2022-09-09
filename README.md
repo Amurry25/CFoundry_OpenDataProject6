@@ -23,8 +23,7 @@
   - Trust (Government Corruption)
 
 #### Tools
-
-**- The following Python libraries were used:
+- The following Python libraries were used:
   - numpy - for working with arrays
   - pandas - for data analytics
   - scipy - to calculate mathematical problems
