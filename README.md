@@ -7,7 +7,7 @@
 > "The World Happiness Report is a landmark survey of the state of global happiness. The report continues to gain global recognition as governments, organizations and civil society increasingly use happiness indicators to inform their policy-making decisions.The reports review the state of happiness in the world today and show how the new science of happiness explains personal and national variations in happiness."
 
 ### Additional context
-> I choose this data set because on a personal level I've always been fascinated by human behavior. And as a result I love spending time gaining insights that allow me to better understand how people think, why people believe certain ideas and why they make the decisions that they do. Because in the same way that gaining more context about one individual’s life has value, learning more about what people think allows me to in a sense see the world through their eyes.
+> I choose this data set because on a personal level I've always been fascinated by human behavior. And as a result I love spending time gaining insights that allow me to better understand how people think, why people believe certain ideas and why they make the decisions that they do. Because in the same way that gaining more context about one individual’s life has value, learning more about what people think allows me to in a sense see the world through their eyes. Which at least for me allows me to better understand and empathize with them; as well as better understand my self and what I think is true. 
 
 #### Data Sets Provided 
 - **Data Source** - Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) 
