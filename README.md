@@ -24,14 +24,13 @@
 
 #### Tools
 
-The following Python libraries were used:
-
-numpy - for working with arrays
-pandas - for data analytics
-scipy - to calculate mathematical problems
-matplotlib - for visualization and graphical plotting
-matplotlib.pyplot as plt - for visualization and graphical plotting
-seaborn - for visualization
-sklearn - for data analytics
-quandl - for data analytics of financial and economic data
+- The following Python libraries were used:
+  - numpy - for working with arrays
+  - pandas - for data analytics
+  - scipy - to calculate mathematical problems
+  - matplotlib - for visualization and graphical plotting
+  - matplotlib.pyplot as plt - for visualization and graphical plotting
+  - seaborn - for visualization
+  - sklearn - for data analytics
+  - quandl - for data analytics of financial and economic data
 
