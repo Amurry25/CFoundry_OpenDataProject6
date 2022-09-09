@@ -10,8 +10,8 @@
 > I choose this data set because on a personal level I've always been fascinated by human behavior. And as a result I love spending time gaining insights that allow me to better understand how people think, why people believe certain ideas and why they make the decisions that they do. Because in the same way that gaining more context about one individual’s life has value, learning about what people think allows me to in a sense see ideas through their eyes.
 
 #### Data Sets Provided 
-- Data Source - Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) 
-- Data Profile --> World Happiness Report (2015-2016)
+- **Data Source** - Kaggle (https://www.kaggle.com/datasets/unsdsn/world-happiness) 
+- **Data Profile** --> World Happiness Report (2015-2016)
   - Country
   - Region
   - Happiness Rank
@@ -24,7 +24,7 @@
 
 #### Tools
 
-- The following Python libraries were used:
+**- The following Python libraries were used:
   - numpy - for working with arrays
   - pandas - for data analytics
   - scipy - to calculate mathematical problems
