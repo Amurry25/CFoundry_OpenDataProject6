@@ -49,6 +49,6 @@ In this project folder you will find, a business-like folder structure containin
     - 6.5 "Unsupervised Machine Learning: Clustering".
     - 6.6 "Sourcing & Analyzing Time Series Data".
 
-4. "**04 Analysis**" - there all visualizations created with matplotlib, seabron and pyplot can be found from the 03 Scripts files. 
+4. "**04 Analysis**" - These all visualizations created with matplotlib, seabron and pyplot can be found from the 03 Scripts files. 
 
-5. "**05 Sent to Client**" - this is an example folder, since there is no project client.
+5. "**05 Sent to Client**" - this is an plac folder, since there is no project client/ Tableau download file.
