@@ -1,7 +1,7 @@
 # CFoundry_OpenDataProject6
 
 #### Summary
-> This repository is meant to highlight my work in Achievement 4 of Career Foundry's Data Analytics Program. Where in this particular achievement I was tasked with posing as a data analyst who was hired by "Instacart".
+> This repository is meant to highlight my work in Achievement 6 of Career Foundry's Data Analytics Program. Where in this particular achievement I was tasked with selecting my "own data to analyze, with the goal of conducting an exploratory visual analysis in Python and finding connections between variables that seem worth exploring." With the results of my analyses being visualized and "presented in a Tableau dashboard/storyboard."
 
 #### Objective
 > Instacart is "an online grocery store that operates through an app. Instacart already has very good sales, but they want to uncover more information about their sales patterns." My objective was "to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria." And in order to answer the questions posed the Instacart I was tasked with conducting the analysis in Python, "relevant libraries (pandas, NumPy, os, matplotlib, scipy, and seaborn) & various data sets provided in the achievement."
