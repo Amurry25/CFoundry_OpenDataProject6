@@ -42,13 +42,13 @@ In this project folder you will find, a business-like folder structure containin
 
 3. "**03 Scripts**" - here you can find the scripts created for the project.
   - There are 6 notebooks/scripts:
-    - 6.1 which is about the sourcing and cleaning of the datasets.
-    - 6.2 which is about exploring relationships and correlations.
-    - 6.3 which is about a geospatial analysis using folium and json libraries for python.
-    - 6.4 which is about autoregression (linear regression) using the sklearn library for python.
-    - 6.5 which is about clustering (kmean) using the sklearn library for python.
-    - 6.6 which is about time series forecasting (ARMA and ARIMA) using the statsmodel library for python.
+    - 6.1 "Sourcing Open Data".
+    - 6.2 "Exploring Relationships" and correlations.
+    - 6.3 "Geographical Visualizations with Python".
+    - 6.4 "Supervised Machine Learning: Regression".
+    - 6.5 "Unsupervised Machine Learning: Clustering".
+    - 6.6 "Sourcing & Analyzing Time Series Data".
 
-4. "**04 Analysis**" - here all visualizations created with matplotlib, seabron and pyplot can be found. (Sorted by the a folder pattern similar to the one in "03 Scripts".
+4. "**04 Analysis**" - there all visualizations created with matplotlib, seabron and pyplot can be found from the 03 Scripts files. 
 
 5. "**05 Sent to Client**" - this is an example folder, since there is no project client.
