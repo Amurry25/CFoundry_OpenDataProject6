@@ -51,4 +51,4 @@ In this repository you will find, five different folders each containing differe
 
 4. "**04 Analysis**" - This folder, contains visualizations created with matplotlib, seabron and pyplot via Python. 
 
-5. "**05 Sent to Client**" - This folder, contains a downloadable Tableau download containing the final storyboard presentation; along with all the visualizations used to create said presentation.
+5. "**05 Sent to Client**" - This folder, contains a downloadable Tableau download of the final storyboard presentation for this project; along with all the visualizations used to create said presentation.
